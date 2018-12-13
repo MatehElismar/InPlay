@@ -1,0 +1,64 @@
+﻿/*Estilos del login*/
+body {
+    background-image: url('Imagenes/88252.jpg');
+    width: 100%;
+}
+
+.login {
+    background-color: rgba(52,73,94,0.4);
+    position: relative;
+    width: 400px;
+    height: 450px;
+    top: 100px;
+    left: 450px;
+    border-radius: 15px;
+    color: white;
+    text-align: center;
+}
+
+.label {
+    position: relative;
+    top: 50px;
+}
+
+.txtbox {
+    position: relative;
+    top: 150px;
+}
+
+.botones {
+    top: 20px;
+}
+
+.btn1 {
+    position: relative;
+    right: 20px;
+    background-color: rgba(52,73,94,0.10);
+    display: inline-block;
+    font-size: 1.25em;
+    margin: 20px;
+    color: white;
+    text-align: center;
+    width: 150px;
+    padding: 5px 0px;
+    text-decoration: none;
+    box-shadow: 0px 3px 0px #0026ff;
+}
+
+.btn2 {
+    position: relative;
+    left: 20px;
+    top: 1px;
+    bottom: 39px;
+    width: 304px;
+    background-color: rgba(52,73,94,0.10);
+    display: inline-block;
+    font-size: 1.25em;
+    margin: 20px;
+    color: white;
+    text-align: center;
+    width: 150px;
+    padding: 5px 0px;
+    text-decoration: none;
+    box-shadow: 0px 3px 0px #0026ff;
+}
